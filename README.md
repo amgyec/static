@@ -1,0 +1,2 @@
+# static
+Estáticos de prueba
